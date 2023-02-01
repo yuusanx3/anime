@@ -1,7 +1,9 @@
 # 評価
 
-アニメの評価一覧のダウンロードは[こちら](https://github.com/yuusanx3/anime/raw/master/Anime.xlsx)。
+アニメの評価一覧のExcelファイルのダウンロードは[こちら](https://github.com/yuusanx3/anime/raw/master/Anime.xlsx)。
 
 見たアニメを管理しているだけで、人に見せるために作っているわけではなく、ごちゃごちゃしてますが。
+
+私の超主観的な評価なので、閲覧者様のお好きなアニメの評価が低くてもお気を悪くしないでください（笑）
 
 2023/1/24 更新
