@@ -11,7 +11,7 @@
 
 アニメの評価一覧のExcelファイルのダウンロードは[こちら](https://github.com/yuusanx3/anime/raw/master/Anime.xlsx)。
 
-2023/2/23 更新
+2023/3/13 更新
 
 ## 評価
 
